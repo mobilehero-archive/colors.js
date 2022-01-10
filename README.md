@@ -12,6 +12,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.npmjs.com/package/@titanium/colors) 
 
 
+[![License: MIT](https://img.shields.io/david/IndigoUnited/node-detect-readme-badges.svg)](https://david-dm.org/IndigoUnited/node-detect-readme-badges) 
+
+
 -------
 
 Please check out the [roadmap](ROADMAP.md) for upcoming features and releases.  Please open Issues to provide feedback, and check the `develop` branch for the latest bleeding-edge updates.
