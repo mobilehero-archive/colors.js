@@ -1,7 +1,7 @@
 {
     "name": "@titanium/colors",
     "description": "⭐  Axway Amplify module for SAFE use of colors in Appcelerator Titanium SDK Framework",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "author": "MobileHero",
     "contributors": [
         {
@@ -27,7 +27,7 @@
             "url": "https://github.com/mobilehero-bot"
         }
     ],
-    "homepage": "https://github.com/mobilehero-archive/titanium-colors",
+    "homepage": "https://brenton.house/saying-goodbye-to-axway-amplify-titanium-31a44f3671de",
     "bugs": {
         "url": "https://github.com/mobilehero-archive/titanium-colors/issues"
     },
