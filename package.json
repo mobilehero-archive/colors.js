@@ -1,36 +1,36 @@
 {
     "name": "@titanium/colors",
     "description": "⭐  Axway Amplify module for SAFE use of colors in Appcelerator Titanium SDK Framework",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "author": "MobileHero",
     "contributors": [
         {
             "name": "DABH",
             "url": "https://github.com/DABH"
         },
-		  {
-			"name": "Brenton House",
-			"url": "https://brenton.house"
-		},
-		{
-			"name": "MobileHero Developer",
-			"url": "https://github.com/mobilehero-bot"
-		}
+        {
+            "name": "Brenton House",
+            "url": "https://brenton.house"
+        },
+        {
+            "name": "MobileHero Developer",
+            "url": "https://github.com/mobilehero-bot"
+        }
     ],
-	 "maintainers": [
-		{
-			"name": "Brenton House",
-			"url": "https://brenton.house"
-		},
-		{
-			"name": "MobileHero Developer",
-			"url": "https://github.com/mobilehero-bot"
-		}
-	],
+    "maintainers": [
+        {
+            "name": "Brenton House",
+            "url": "https://brenton.house"
+        },
+        {
+            "name": "MobileHero Developer",
+            "url": "https://github.com/mobilehero-bot"
+        }
+    ],
     "homepage": "https://github.com/mobilehero-archive/titanium-colors",
-	 "bugs": {
-		"url": "https://github.com/mobilehero-archive/titanium-colors/issues"
-	},
+    "bugs": {
+        "url": "https://github.com/mobilehero-archive/titanium-colors/issues"
+    },
     "keywords": [
         "ansi",
         "terminal",
