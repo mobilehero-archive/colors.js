@@ -2,10 +2,14 @@
 
 > ⚠️ This is a fork of the original `colors` module from before the author went rogue and introduced an intentional Denial of Service (DoS) into the latest codebase.  DO NOT USE the original package `colors` any longer.  This branch is taken from a commit that was made before the incident occurred.
 
+-------
+
 # titanium-colors
 
 [![@titanium/colors](https://img.shields.io/npm/v/@titanium/colors.png)](https://www.npmjs.com/package/@titanium/colors)
 
+
+-------
 
 Please check out the [roadmap](ROADMAP.md) for upcoming features and releases.  Please open Issues to provide feedback, and check the `develop` branch for the latest bleeding-edge updates.
 
