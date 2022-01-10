@@ -1,29 +1,71 @@
 {
-    "name": "colors",
-    "description": "get colors in your node.js console",
-    "version": "1.4.0",
-    "author": "Marak Squires",
+    "name": "@titanium/colors",
+    "description": "⭐  Axway Amplify module for SAFE use of colors in Appcelerator Titanium SDK Framework",
+    "version": "2.0.0",
+    "author": "MobileHero",
     "contributors": [
         {
             "name": "DABH",
             "url": "https://github.com/DABH"
-        }
+        },
+		  {
+			"name": "Brenton House",
+			"url": "https://brenton.house"
+		},
+		{
+			"name": "MobileHero Developer",
+			"url": "https://github.com/mobilehero-bot"
+		}
     ],
-    "homepage": "https://github.com/Marak/colors.js",
-    "bugs": "https://github.com/Marak/colors.js/issues",
+	 "maintainers": [
+		{
+			"name": "Brenton House",
+			"url": "https://brenton.house"
+		},
+		{
+			"name": "MobileHero Developer",
+			"url": "https://github.com/mobilehero-bot"
+		}
+	],
+    "homepage": "https://github.com/mobilehero-archive/titanium-colors",
+	 "bugs": {
+		"url": "https://github.com/mobilehero-archive/titanium-colors/issues"
+	},
     "keywords": [
         "ansi",
         "terminal",
-        "colors"
+        "colors",
+        "axway",
+        "alloy",
+        "appcelerator",
+        "titanium",
+        "mobile",
+        "turbo",
+        "sdk",
+        "plugin",
+        "amplify",
+        "api-builder",
+        "appcelerator-titanium",
+        "titanium-sdk",
+        "titanium-mobile",
+        "titanium-module",
+        "titanium-alloy",
+        "axway-sdk",
+        "axway-amplify",
+        "brenton-house"
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/Marak/colors.js.git"
+        "url": "git://github.com/mobilehero-archive/titanium-colors.git"
     },
     "license": "MIT",
     "scripts": {
         "lint": "eslint . --fix",
-        "test": "node tests/basic-test.js && node tests/safe-test.js"
+        "list": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz",
+        "prep": "npm install --ignore-scripts",
+        "test": "npm run prep",
+        "prepublishOnly": "git pull && npm test && bump insane",
+        "prepublishOnly2": "git pull && npm test && npm audit fix && bump insane"
     },
     "engines": {
         "node": ">=0.1.90"
@@ -39,7 +81,9 @@
         "safe.d.ts"
     ],
     "devDependencies": {
-        "eslint": "^5.2.0",
-        "eslint-config-google": "^0.11.0"
+        "@geek/eslint-config": "^1.0.3",
+        "@titanium/eslint-config": "^1.0.14",
+        "eslint": "^8.6.0",
+        "eslint-config-google": "^0.14.0"
     }
 }
