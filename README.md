@@ -1,8 +1,11 @@
-# colors.js
-[![Build Status](https://travis-ci.org/Marak/colors.js.svg?branch=master)](https://travis-ci.org/Marak/colors.js)
-[![version](https://img.shields.io/npm/v/colors.svg)](https://www.npmjs.org/package/colors)
-[![dependencies](https://david-dm.org/Marak/colors.js.svg)](https://david-dm.org/Marak/colors.js)
-[![devDependencies](https://david-dm.org/Marak/colors.js/dev-status.svg)](https://david-dm.org/Marak/colors.js#info=devDependencies)
+# 🛑 IMPORTANT! 🛑
+
+> ⚠️ This is a fork of the original `colors` module from before the author went rogue and introduced an intentional Denial of Service (DoS) into the latest codebase.  DO NOT USE the original package `colors` any longer.  This branch is taken from a commit that was made before the incident occurred.
+
+# titanium-colors
+
+[![@titanium/colors](https://img.shields.io/npm/v/@titanium/colors.png)](https://www.npmjs.com/package/@titanium/colors)
+
 
 Please check out the [roadmap](ROADMAP.md) for upcoming features and releases.  Please open Issues to provide feedback, and check the `develop` branch for the latest bleeding-edge updates.
 
