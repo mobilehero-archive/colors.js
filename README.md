@@ -6,7 +6,10 @@
 
 # titanium-colors
 
-[![@titanium/colors](https://img.shields.io/npm/v/@titanium/colors.png)](https://www.npmjs.com/package/@titanium/colors)
+[![@titanium/colors version](https://img.shields.io/npm/v/@titanium/colors.png)](https://www.npmjs.com/package/@titanium/colors)
+[![@titanium/colors downloads](https://img.shields.io/npm/dm/@titanium/colors.svg)](https://www.npmjs.com/package/@titanium/colors)
+[![@titanium/colors dependencies](https://img.shields.io/librariesio/release/npm/@titanium/colors.svg)](https://www.npmjs.com/package/@titanium/colors)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.npmjs.com/package/@titanium/colors) 
 
 
 -------
@@ -19,7 +22,7 @@ Please check out the [roadmap](ROADMAP.md) for upcoming features and releases.  
 
 ## Installation
 
-    npm install colors
+    npm install @titanium/colors
 
 ## colors and styles!
 
