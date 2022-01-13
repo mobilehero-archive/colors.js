@@ -1,7 +1,7 @@
 {
     "name": "@titanium/colors",
     "description": "⭐  Axway Amplify module for SAFE use of colors in Appcelerator Titanium SDK Framework",
-    "version": "2.0.15",
+    "version": "2.0.16",
     "author": "MobileHero",
     "contributors": [
         {
@@ -82,7 +82,7 @@
     ],
     "devDependencies": {
         "@geek/eslint-config": "^1.0.3",
-        "@titanium/eslint-config": "^1.0.21",
+        "@titanium/eslint-config": "^1.0.23",
         "eslint": "^8.6.0",
         "eslint-config-google": "^0.14.0"
     }
